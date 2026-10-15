@@ -1,0 +1,6 @@
+{
+  "name": "Bookverse",
+  "description": "A delightful book shopping experience to discover bestsellers, explore genres, read sample chapters, save wishlists, and order physical and audiobooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
